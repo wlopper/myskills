@@ -12,7 +12,7 @@
 |      stream流      |               |
 |     linux初级      |               |
 |        k8s         |               |
-|       flink        |               |
+|    批处理flink     |               |
 |      hashmap       |               |
 |       docker       |               |
 |    springcloud     |               |
@@ -20,15 +20,15 @@
 |     nexus掌握      |               |
 | elasticsearch掌握  |               |
 |      activeMQ      |               |
-|                    |               |
-|                    |               |
-|                    |               |
-|                    |               |
-|                    |               |
-|                    |               |
-|                    |               |
-|                    |               |
-|                    |               |
+|      用户登录      |               |
+|     计算机基础     |               |
+|     计算机网络     |               |
+|      数据结构      |               |
+|    欧氏距离算法    |               |
+|     freemarker     |               |
+|      JVM原理       |               |
+|        http        |               |
+|        爬虫        |               |
 |                    |               |
 |                    |               |
 |                    |               |
